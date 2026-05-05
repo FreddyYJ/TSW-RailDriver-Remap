@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR193_Vectron",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "FTF_FT_Vectron",
+			"Path": "DLC/FTF_FT_Vectron"
+		},
+		{
+			"Name": "FTF_DB_Vectron",
+			"Path": "DLC/FTF_DB_Vectron"
+		},
+		{
+			"Name": "KWG_RP_Vectron",
+			"Path": "DLC/KWG_RP_Vectron"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

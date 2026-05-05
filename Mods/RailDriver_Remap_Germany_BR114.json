@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR114",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "FTF_DB_BR114",
+			"Path": "DLC/FTF_DB_BR114"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

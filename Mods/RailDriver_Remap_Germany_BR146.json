@@ -1,0 +1,33 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR146",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "TTC_BR146",
+			"Path": "DLC/TTC_BR146"
+		},
+		{
+			"Name": "DLG_DB_BR146-2",
+			"Path": "DLC/DLG_DB_BR146-2"
+		},
+		{
+			"Name": "DRA_DB_BR146-2",
+			"Path": "DLC/DRA_DB_BR146-2"
+		},
+		{
+			"Name": "FTF_DB_BR146",
+			"Path": "DLC/FTF_DB_BR146"
+		},
+		{
+			"Name": "MSB_DB_BR146-2",
+			"Path": "DLC/MSB_DB_BR146-2"
+		},
+		{
+			"Name": "KWG_DB_BR146",
+			"Path": "DLC/KWG_DB_BR146"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

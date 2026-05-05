@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR182",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "HBK_MRCE_BR182",
+			"Path": "DLC/HBK_MRCE_BR182"
+		},
+		{
+			"Name": "KWG_Dispolok_BR182",
+			"Path": "DLC/KWG_Dispolok_BR182"
+		},
+		{
+			"Name": "DB_BR182",
+			"Path": "DLC/DB_BR182"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR187",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "KAH_DB_BR187",
+			"Path": "DLC/KAH_DB_BR187"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR155",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BRO_PRESS_BR155",
+			"Path": "DLC/BRO_PRESS_BR155"
+		},
+		{
+			"Name": "RSN_DB_BR155",
+			"Path": "DLC/RSN_DB_BR155"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

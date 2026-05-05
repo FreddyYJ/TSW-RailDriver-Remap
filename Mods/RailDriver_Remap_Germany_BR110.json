@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR110",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BRO_DB_BR110",
+			"Path": "DLC/BRO_DB_BR110"
+		},
+		{
+			"Name": "LFR_DB_BR110",
+			"Path": "DLC/LFR_DB_BR110"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

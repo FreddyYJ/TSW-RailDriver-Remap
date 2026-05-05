@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Czech_CD843",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "TTC_SD40-2",
+			"Path": "DLC/TTC_SD40-2"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

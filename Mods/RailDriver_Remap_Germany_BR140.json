@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR140",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SHB_DB_BR140",
+			"Path": "DLC/SHB_DB_BR140"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

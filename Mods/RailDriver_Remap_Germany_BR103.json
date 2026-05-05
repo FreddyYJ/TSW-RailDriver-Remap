@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR103",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LFR_DB_BR103",
+			"Path": "DLC/LFR_DB_BR103"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

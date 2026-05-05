@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR112",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "HBK_DB_BR112",
+			"Path": "DLC/HBK_DB_BR112"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

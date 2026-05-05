@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Czech_CD750",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "TTC_NJT_BiLevels",
+			"Path": "DLC/TTC_NJT_BiLevels"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

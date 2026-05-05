@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR101_Expert",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "CRG_DB_BR101_Expert",
+			"Path": "DLC/CRG_DB_BR101_Expert"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
