@@ -17,7 +17,7 @@ For Steam, copy to
 <directory_to_steam>/steamapps/common/Train Sim World 6/WindowsNoEditor/TS2Prototype/Content/DLC
 ```
 
-For remapped buttons and levers, visit [Remapped Buttons & Levers](#remapped-buttons-&-levers).
+For remapped buttons and levers, visit [Remapped Buttons & Levers](#remapped-buttons--levers).
 
 ## Supported Locomotives
 
