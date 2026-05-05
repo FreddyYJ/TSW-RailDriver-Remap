@@ -1,5 +1,6 @@
 .git
 Plugins/*
+Plugins/DLC/**/Saved
 !Plugins/DLC
 
 Saved/*
