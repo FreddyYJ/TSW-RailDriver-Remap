@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR194_Crocodile",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "ELE_DBB_BR194",
+			"Path": "DLC/ELE_DBB_BR194"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

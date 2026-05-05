@@ -49,6 +49,7 @@ This issue is not in my side; technically they are "different locomotives" inter
 * DB BR 185
 * DB BR 187
 * DB BR 193 Vectron
+* DB BR 194 (E94)
 
 ### Czech
 
@@ -71,8 +72,8 @@ For levers, I tried to use same levers for same controls as possible.
 ## Roadmaps
 I don't have a roadmap with exact date, but I have a simple plan to add the remaps.
 
-1. German electric locomotives
-2. German cab cars
+1. German electric locomotives ... :heavy_check_mark:
+2. German cab cars ... :construction:
 3. German EMUs
 4. German DMUs
 5. German diesel & shunting locomotives
@@ -84,9 +85,9 @@ I don't have a roadmap with exact date, but I have a simple plan to add the rema
 
 ## Directory Structures
 
-* `Build`: Generated `.pak` files
-* `Mods`: Generated mods used in TSW Editor
-* `Plugins`: Remap assets used in TSW Editor
+* `Build`: Compiled `.pak` files
+* `Mods`: Mods meta-data used in TSW Editor
+* `Plugins`: Remapping assets used in TSW Editor
 * `Saved`: Scripts and required files to build mods
 
 * `index.odp`: Index file contains some information when creating remaps
