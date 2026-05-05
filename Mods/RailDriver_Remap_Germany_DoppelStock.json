@@ -1,0 +1,61 @@
+{
+	"Name": "RailDriver_Remap_Germany_DoppelStock",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "DB_767_780",
+			"Path": "DLC/DB_767_780"
+		},
+		{
+			"Name": "TTC_Doppelstock",
+			"Path": "DLC/TTC_Doppelstock"
+		},
+		{
+			"Name": "DCZ_DB_Doppelstock",
+			"Path": "DLC/DCZ_DB_Doppelstock"
+		},
+		{
+			"Name": "DLG_DB_Doppelstock",
+			"Path": "DLC/DLG_DB_Doppelstock"
+		},
+		{
+			"Name": "DRA_DB_Doppelstock",
+			"Path": "DLC/DRA_DB_Doppelstock"
+		},
+		{
+			"Name": "FTF_DB_Doppelstock",
+			"Path": "DLC/FTF_DB_Doppelstock"
+		},
+		{
+			"Name": "FSN_DB_Doppelstock",
+			"Path": "DLC/FSN_DB_Doppelstock"
+		},
+		{
+			"Name": "HBK_DB_Doppelstock",
+			"Path": "DLC/HBK_DB_Doppelstock"
+		},
+		{
+			"Name": "MSB_DB_Doppelstock",
+			"Path": "DLC/MSB_DB_Doppelstock"
+		},
+		{
+			"Name": "MKN_DB_Doppelstock",
+			"Path": "DLC/MKN_DB_Doppelstock"
+		},
+		{
+			"Name": "LS2_DB_Doppelstock",
+			"Path": "DLC/LS2_DB_Doppelstock"
+		},
+		{
+			"Name": "SRM_DB_Doppelstock",
+			"Path": "DLC/SRM_DB_Doppelstock"
+		},
+		{
+			"Name": "KWG_DB_Doppelstock",
+			"Path": "DLC/KWG_DB_Doppelstock"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

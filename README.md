@@ -32,6 +32,8 @@ The listed locomotives below contains the other liveries (e.g., MRCE, RailPool o
 Some buttons may not work for some locomotives (e.g., reverser handle of DB BR 143).
 This issue is not in my side; technically they are "different locomotives" internally.
 
+#### Electric Locomotives
+
 * DB BR 101
 * DB BR 101 Expert and DB BR 286
 * DB BR 103
@@ -50,6 +52,10 @@ This issue is not in my side; technically they are "different locomotives" inter
 * DB BR 187
 * DB BR 193 Vectron
 * DB BR 194 (E94)
+
+#### Cab Cars
+
+* DB DoppelStockWagen (DB BR 766 and 767)
 
 ### Czech
 
