@@ -1,6 +1,7 @@
 .git
 Plugins/*
 Plugins/DLC/**/Saved
+Plugins/DLC/RailDriver_Remap
 !Plugins/DLC
 
 Saved/*
