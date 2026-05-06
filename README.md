@@ -56,6 +56,8 @@ This issue is not in my side; technically they are "different locomotives" inter
 #### Cab Cars
 
 * DB DoppelStockWagen (DB BR 766 and 767)
+* DB BR 463 Electric and Diesel
+* DB BR 483
 
 ### Czech
 
@@ -79,8 +81,8 @@ For levers, I tried to use same levers for same controls as possible.
 I don't have a roadmap with exact date, but I have a simple plan to add the remaps.
 
 1. German electric locomotives ... :heavy_check_mark:
-2. German cab cars ... :construction:
-3. German EMUs
+2. German cab cars ... :heavy_check_mark:
+3. German EMUs .. :construction:
 4. German DMUs
 5. German diesel & shunting locomotives
 6. Austrian/French/Netherlands/Switzerland

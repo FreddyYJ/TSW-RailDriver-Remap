@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR463_Diesel",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "TSG_DB_nWagen_D",
+			"Path": "DLC/TSG_DB_nWagen_D"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

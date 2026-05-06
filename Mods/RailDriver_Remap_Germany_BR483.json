@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR483",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SHB_DB_Wittenberger",
+			"Path": "DLC/SHB_DB_Wittenberger"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

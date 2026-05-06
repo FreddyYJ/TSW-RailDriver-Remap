@@ -1,0 +1,25 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR463_Electric",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BRO_DB_N-Wagens",
+			"Path": "DLC/BRO_DB_N-Wagens"
+		},
+		{
+			"Name": "FTF_DB_N-Wagens",
+			"Path": "DLC/FTF_DB_N-Wagens"
+		},
+		{
+			"Name": "LFR_DB_N-Wagens",
+			"Path": "DLC/LFR_DB_N-Wagens"
+		},
+		{
+			"Name": "SHB_DB_N-Wagens",
+			"Path": "DLC/SHB_DB_N-Wagens"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
