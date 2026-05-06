@@ -59,6 +59,10 @@ This issue is not in my side; technically they are "different locomotives" inter
 * DB BR 463 Electric and Diesel
 * DB BR 483
 
+#### EMUs
+
+* DB BR 401 ICE 1
+
 ### Czech
 
 Czech locomotives do not support RailDriver originally.

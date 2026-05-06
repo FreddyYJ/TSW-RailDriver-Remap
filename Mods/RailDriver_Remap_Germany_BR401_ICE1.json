@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR401_ICE1",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "KWG_DB_ICE1",
+			"Path": "DLC/KWG_DB_ICE1"
+		},
+		{
+			"Name": "NJP_BR_ICE1",
+			"Path": "DLC/NJP_BR_ICE1"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
