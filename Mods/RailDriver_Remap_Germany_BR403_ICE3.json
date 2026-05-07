@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR403_ICE3",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "KWG_DB_ICE3",
+			"Path": "DLC/KWG_DB_ICE3"
+		},
+		{
+			"Name": "MAG_DB_ICE3",
+			"Path": "DLC/MAG_DB_ICE3"
+		},
+		{
+			"Name": "NJP_BR_ICE3",
+			"Path": "DLC/NJP_BR_ICE3"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

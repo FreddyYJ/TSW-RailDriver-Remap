@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR411_ICET",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "DLG_DB_BR411",
+			"Path": "DLC/DLG_DB_BR411"
+		},
+		{
+			"Name": "FTF_DB_BR411",
+			"Path": "DLC/FTF_DB_BR411"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR406_ICE3M",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "KAH_DB_ICE3M",
+			"Path": "DLC/KAH_DB_ICE3M"
+		},
+		{
+			"Name": "MKN_DB_ICE-3M",
+			"Path": "DLC/MKN_DB_ICE-3M"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
