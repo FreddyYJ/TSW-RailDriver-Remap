@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR422",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "NRM_DB_BR422",
+			"Path": "DLC/NRM_DB_BR422"
+		},
+		{
+			"Name": "WPH_DB_BR422",
+			"Path": "DLC/WPH_DB_BR422"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

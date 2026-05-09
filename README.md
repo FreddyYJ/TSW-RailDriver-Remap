@@ -55,7 +55,7 @@ This issue is not in my side; technically they are "different locomotives" inter
 
 #### Cab Cars
 
-* DB DoppelStockWagen (DB BR 766 and 767)
+* DB DoppelStockwagen (DB BR 766 and 767)
 * DB BR 463 Electric and Diesel
 * DB BR 483
 
@@ -65,6 +65,11 @@ This issue is not in my side; technically they are "different locomotives" inter
 * DB BR 403 ICE 3
 * DB BR 406 ICE 3M
 * DB BR 411 ICE T (DB BR 415)
+* DB BR 422
+* DB BR 423
+* DB BR 425
+* DB BR 430
+* DB BR 442 Talent 2 (include BR 1442 in Rapid Transit)
 
 ### Czech
 
@@ -89,8 +94,8 @@ I don't have a roadmap with exact date, but I have a simple plan to add the rema
 
 1. German electric locomotives ... :heavy_check_mark:
 2. German cab cars ... :heavy_check_mark:
-3. German EMUs ... :construction:
-4. German DMUs
+3. German EMUs ... :heavy_check_mark:
+4. German DMUs ... :construction:
 5. German diesel & shunting locomotives
 6. Austrian/French/Netherlands/Switzerland
 7. UK

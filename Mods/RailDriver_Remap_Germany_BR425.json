@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR425",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BRO_DB_BR425",
+			"Path": "DLC/BRO_DB_BR425"
+		},
+		{
+			"Name": "MKN_DB_BR425",
+			"Path": "DLC/MKN_DB_BR425"
+		},
+		{
+			"Name": "NRM_DB_BR425",
+			"Path": "DLC/NRM_DB_BR425"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

@@ -1,0 +1,29 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR442_Talent2",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "DLG_DB_BR442",
+			"Path": "DLC/DLG_DB_BR442"
+		},
+		{
+			"Name": "DRA_DB_BR442",
+			"Path": "DLC/DRA_DB_BR442"
+		},
+		{
+			"Name": "DB_Talent2",
+			"Path": "DLC/DB_Talent2"
+		},
+		{
+			"Name": "KWG_DB_BR442",
+			"Path": "DLC/KWG_DB_BR442"
+		},
+		{
+			"Name": "KAH_DB_BR442",
+			"Path": "DLC/KAH_DB_BR442"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

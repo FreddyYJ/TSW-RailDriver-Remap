@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR430",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "FSN_DB_BR430",
+			"Path": "DLC/FSN_DB_BR430"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

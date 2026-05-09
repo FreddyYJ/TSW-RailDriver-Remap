@@ -1,0 +1,29 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR423",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "CTP_KolnAachen_BR423",
+			"Path": "DLC/CTP_KolnAachen_BR423"
+		},
+		{
+			"Name": "FSN_DB_BR423",
+			"Path": "DLC/FSN_DB_BR423"
+		},
+		{
+			"Name": "FTF_DB_BR423",
+			"Path": "DLC/FTF_DB_BR423"
+		},
+		{
+			"Name": "MAG_DB_BR423",
+			"Path": "DLC/MAG_DB_BR423"
+		},
+		{
+			"Name": "SHB_DB_BR423",
+			"Path": "DLC/SHB_DB_BR423"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
