@@ -71,6 +71,12 @@ This issue is not in my side; technically they are "different locomotives" inter
 * DB BR 430
 * DB BR 442 Talent 2 (include BR 1442 in Rapid Transit)
 
+#### DMUs
+
+* DB BR 612
+* DB BR 628
+* DB BR 642
+
 ### Czech
 
 Czech locomotives do not support RailDriver originally.
@@ -95,8 +101,8 @@ I don't have a roadmap with exact date, but I have a simple plan to add the rema
 1. German electric locomotives ... :heavy_check_mark:
 2. German cab cars ... :heavy_check_mark:
 3. German EMUs ... :heavy_check_mark:
-4. German DMUs ... :construction:
-5. German diesel & shunting locomotives
+4. German DMUs ... :heavy_check_mark:
+5. German diesel & shunting locomotives ... :construction:
 6. Austrian/French/Netherlands/Switzerland
 7. UK
 8. USA

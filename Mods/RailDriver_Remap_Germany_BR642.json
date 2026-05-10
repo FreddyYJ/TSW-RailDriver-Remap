@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR642",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "MAIN_DB_BR642",
+			"Path": "DLC/MAIN_DB_BR642"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

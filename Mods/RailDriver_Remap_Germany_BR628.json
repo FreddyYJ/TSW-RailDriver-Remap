@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR628",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "TSG_DB_BR628",
+			"Path": "DLC/TSG_DB_BR628"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

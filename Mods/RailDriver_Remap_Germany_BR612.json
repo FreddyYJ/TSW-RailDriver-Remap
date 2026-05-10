@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR612",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "DCZ_DB_BR612",
+			"Path": "DLC/DCZ_DB_BR612"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
