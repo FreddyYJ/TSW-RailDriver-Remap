@@ -1,0 +1,37 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR363_365",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "DCZ_DBB_BR363",
+			"Path": "DLC/DCZ_DBB_BR363"
+		},
+		{
+			"Name": "DLG_DBB_BR363",
+			"Path": "DLC/DLG_DBB_BR363"
+		},
+		{
+			"Name": "DRA_DBB_BR363",
+			"Path": "DLC/DRA_DBB_BR363"
+		},
+		{
+			"Name": "MAIN_DB_BR363",
+			"Path": "DLC/MAIN_DB_BR363"
+		},
+		{
+			"Name": "RSN_DB_BR363",
+			"Path": "DLC/RSN_DB_BR363"
+		},
+		{
+			"Name": "SHB_DBB_BR363",
+			"Path": "DLC/SHB_DBB_BR363"
+		},
+		{
+			"Name": "NID_DB_BR365",
+			"Path": "DLC/NID_DB_BR365"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

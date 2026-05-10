@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR204",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "DB_BR204",
+			"Path": "DLC/DB_BR204"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

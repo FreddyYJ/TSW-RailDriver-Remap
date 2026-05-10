@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_G6",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "TSG_Vossloh_G6",
+			"Path": "DLC/TSG_Vossloh_G6"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
