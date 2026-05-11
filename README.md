@@ -153,8 +153,8 @@ I don't have a roadmap with exact date, but I have a simple plan to add the rema
 
 ### Github Issues
 
-Please add Github Issue if you are experiencing a bug or you have a feedback.
+Please feel free to add Github Issue if you are experiencing a bug or have a feedback.
 
-### Modifying Remap
+### Direct Contribution
 
-If you want to modify remaps directly, follow the steps below to setup the environment.
+If you want to contribute directly, visit our [wiki](https://github.com/FreddyYJ/TSW-RailDriver-Remap/wiki) to setup your environment, modify the assets and build the mod!
