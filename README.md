@@ -59,7 +59,7 @@ The listed locomotives below contains the other liveries (e.g., DBB, MRCE, RailP
 * DB BR 185
 * DB BR 187
 * DB BR 193 Vectron
-* DB BR 194 (E94)
+* DB BR 194 (E94) Crocodile
 
 #### Diesel Locomotives
 
@@ -104,6 +104,13 @@ To check their Czech remapping, visit [their upload](https://www.trainsimcommuni
 
 * CD 750
 * CD 843
+
+### Austria
+
+Some Austrian locomotives shares same vehicle with Germany (e.g., ÖBB 1116 and DB BR 182), but the remapping is slightly different.
+
+* ÖBB 1020 Crocodile
+* ÖBB 1116 Taurus
 
 ## Remapped Buttons & Levers
 

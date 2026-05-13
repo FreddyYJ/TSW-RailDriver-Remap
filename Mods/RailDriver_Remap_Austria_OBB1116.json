@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Austria_OBB1116",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SBN_OBB_1116",
+			"Path": "DLC/SBN_OBB_1116"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

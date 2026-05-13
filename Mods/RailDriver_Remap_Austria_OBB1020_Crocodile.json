@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Austria_OBB1020_Crocodile",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "MITT_OBB_1020",
+			"Path": "DLC/MITT_OBB_1020"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
