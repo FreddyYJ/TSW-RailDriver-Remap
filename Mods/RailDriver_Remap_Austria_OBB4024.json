@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_Austria_OBB4024",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SBN_OBB_4024",
+			"Path": "DLC/SBN_OBB_4024"
+		},
+		{
+			"Name": "SRM_OBB_4024",
+			"Path": "DLC/SRM_OBB_4024"
+		},
+		{
+			"Name": "VBRG_OBB_4024",
+			"Path": "DLC/VBRG_OBB_4024"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

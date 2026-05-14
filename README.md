@@ -111,6 +111,7 @@ Some Austrian locomotives shares same vehicle with Germany (e.g., ÖBB 1116 and 
 
 * ÖBB 1020 Crocodile
 * ÖBB 1116 Taurus
+* ÖBB 4024 Talent 1
 
 ## Remapped Buttons & Levers
 
