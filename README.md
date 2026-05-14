@@ -113,6 +113,10 @@ Some Austrian locomotives shares same vehicle with Germany (e.g., ÖBB 1116 and 
 * ÖBB 1116 Taurus
 * ÖBB 4024 Talent 1
 
+### France
+
+* TGV Duplex 200
+
 ## Remapped Buttons & Levers
 
 The index of remapped buttons are stored in `raildriver-*-Remapped.docx`.

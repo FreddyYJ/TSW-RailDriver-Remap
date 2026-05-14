@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_France_TGV_Duplex",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LGV_SNCF_TGVDuplex200",
+			"Path": "DLC/LGV_SNCF_TGVDuplex200"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
