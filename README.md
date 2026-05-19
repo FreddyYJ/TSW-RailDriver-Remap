@@ -6,7 +6,7 @@ Especially, some German locomotives have different controls between different ro
 
 Therefore, I tried to set the buttons and levers as similar as possible between the locomotives from the same nations.
 
-Currently it supports German and Czech locomotives.
+Currently it supports German, Austrian, French and Czech locomotives.
 
 This work is still in progress and alpha-level.
 If you want to contribute or experiencing an issue, please see [Contributing](#contributing).
@@ -70,7 +70,7 @@ The listed locomotives below contains the other liveries (e.g., DBB, MRCE, RailP
 
 #### Cab Cars
 
-* DB DoppelStockwagen (DB BR 766 and 767)
+* DB Doppelstockwagen (DB BR 766 and 767)
 * DB BR 463 Electric
 * DB BR 463 Diesel
 * DB BR 483
@@ -124,20 +124,45 @@ You may print out them and put on your controller.
 
 For levers, I tried to assign same functions for same levers as possible.
 
-### Germany
+Door controls are in 4-direction crossed buttons, in right bottom.
+If the locomotive supports in-cab door control, it will use them.
+Otherwise, it will lock/unlock left/right doors (i.e., same as Y and U in keyboard).
+
+### Germany and Austria
 
 See the image below.
 For the buttons in bottom, see `raildriver-Germany-Remapped.docx` file.
 
+If the locomotive only has Door Control without Door Selector (especially the old electric locomotives such as DB BR 103), it will automatically decide the direction of the door.
+Therefore, if you set Door Control to Open (up direction), the direction of the door is decided by the direction of the platform.
+For example, if the platform is on your left, Door Control to Open will open the left doors only and vice versa.
+For those locos, Door Selector buttons (left and right button in right bottom crossed buttons) to Left/Right Door Unlock/Lock (Y and U in keyboard).
+
 `Headlight` knob controls the 'brightness' of the headlight (i.e., reduced or bright).
 To change the 'signal' light (i.e., white or red), see `raildriver-Germany-Remapped.docx` for each locomotive.
 
-For door control, I only seperate 'Door Selector' and 'Door Close/Open' for supported locomotives.
-For the others, I just used default door control buttons (Left/Right Door Unlock/Lock).
-This issue is not my side; each locomotive uses different key index for door control internally.
-I will fix them when I found out how to assign door control for them.
+#### Door Control
+
+If the locomotive has both 'Door Selector' and 'Door Close/Open' (e.g., DB BR 146 or DB Doppelstockwagen), use left/right buttons are for Door Selector, up for door open, and down for door close.
+
+If the locomotive has 'Door Selector' only (e.g., DB BR 101 or DB BR 403 ICE 3), use left/right buttons.
+The doors will be opened automatically when you select a door.
+To close, move Door Selector to 'Lock All'.
+
+If the locomotive or MU has open left/right and close button, use left/right buttons to open the door.
+To close, use down button.
+
+If the locomotive has 'Door Control (Close/Open)' only (e.g., DB BR 103 or DB BR 463), use up for door open and down for door close.
+It will automatically decide the direction of the door by the direction of the platform.
+For example, if the platform is in left, 'Door Open' will open the left doors, not right doors.
+If you want to open/close specific direction, use left/right button.
+If will lock/unlock left/right doors (i.e., same as Y and U in keyboard).
 
 ![RailDriver German mapping](images/RailDriver-Germany.png)
+
+### The Others
+
+The other locomotives from the other countries uses same control with Germany and Austria except PZB controls and Brake Release.
 
 ## Roadmaps
 I don't have a roadmap with exact date, but I have a simple plan to add the remaps.
