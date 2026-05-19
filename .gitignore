@@ -1,5 +1,6 @@
 .git
 .~lock*
+*.zip
 
 Plugins/*
 Plugins/DLC/**/Saved
