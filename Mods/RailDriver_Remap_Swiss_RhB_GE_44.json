@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_Swiss_RhB_GE_44",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "ARL_RhB_GE44II",
+			"Path": "DLC/ARL_RhB_GE44II"
+		},
+		{
+			"Name": "ARL_RhB_GE44II_VP01",
+			"Path": "DLC/ARL_RhB_GE44II_VP01"
+		},
+		{
+			"Name": "ARL_RhB_GE44II_VP02",
+			"Path": "DLC/ARL_RhB_GE44II_VP02"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

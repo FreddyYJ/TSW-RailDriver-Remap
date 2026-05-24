@@ -117,6 +117,10 @@ Some Austrian locomotives shares same vehicle with Germany (e.g., ÖBB 1116 and 
 
 * TGV Duplex 200
 
+### Switzerland
+
+* RABe 523
+
 ## Remapped Buttons & Levers
 
 The index of remapped buttons are stored in `raildriver-*-Remapped.docx`.

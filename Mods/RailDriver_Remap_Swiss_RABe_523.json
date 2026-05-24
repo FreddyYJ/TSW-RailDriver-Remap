@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Swiss_RABe_523",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LZN_RABe_523",
+			"Path": "DLC/LZN_RABe_523"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

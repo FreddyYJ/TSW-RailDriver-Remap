@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Swiss_RhB_812_Allegra",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SMT_RhB_ABe_8_12",
+			"Path": "DLC/SMT_RhB_ABe_8_12"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
