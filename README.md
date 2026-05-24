@@ -6,7 +6,7 @@ Especially, some German locomotives have different controls between different ro
 
 Therefore, I tried to set the buttons and levers as similar as possible between the locomotives from the same nations.
 
-Currently it supports German, Austrian, French and Czech locomotives.
+Currently it supports German, Austrian, French, Czech and Switzerland locomotives.
 
 This work is still in progress and alpha-level.
 If you want to contribute or experiencing an issue, please see [Contributing](#contributing).
@@ -120,6 +120,8 @@ Some Austrian locomotives shares same vehicle with Germany (e.g., ÖBB 1116 and 
 ### Switzerland
 
 * RABe 523
+* RhB GE 4/4 II (Including anniversary liveries)
+* RhB 8/12 Allegra
 
 ## Remapped Buttons & Levers
 
