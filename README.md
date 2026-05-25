@@ -6,7 +6,14 @@ Especially, some German locomotives have different controls between different ro
 
 Therefore, I tried to set the buttons and levers as similar as possible between the locomotives from the same nations.
 
-Currently it supports German, Austrian, French, Czech and Switzerland locomotives.
+See below to check supported nations.
+
+* Germany
+* Austria
+* Czech
+* France
+* Switzerland
+* Netherland
 
 This work is still in progress and alpha-level.
 If you want to contribute or experiencing an issue, please see [Contributing](#contributing).
@@ -123,6 +130,11 @@ Some Austrian locomotives shares same vehicle with Germany (e.g., ÖBB 1116 and 
 * RhB GE 4/4 II (Including anniversary liveries)
 * RhB 8/12 Allegra
 
+### Netherland
+
+* NS ICM3
+* NS SNG3
+
 ## Remapped Buttons & Levers
 
 The index of remapped buttons are stored in `raildriver-*-Remapped.docx`.
@@ -178,8 +190,8 @@ I don't have a roadmap with exact date, but I have a simple plan to add the rema
 3. German EMUs ... :heavy_check_mark:
 4. German DMUs ... :heavy_check_mark:
 5. German diesel & shunting locomotives ... :heavy_check_mark:
-6. Austria/France/Switzerland/Netherland ... :construction:
-7. UK
+6. Austria/France/Switzerland/Netherland ... :heavy_check_mark:
+7. UK ... :construction:
 8. USA
 
 ## Directory Structures

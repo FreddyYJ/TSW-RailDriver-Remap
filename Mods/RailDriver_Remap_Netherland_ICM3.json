@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Netherland_ICM3",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "ZGN_NS_ICM3",
+			"Path": "DLC/ZGN_NS_ICM3"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

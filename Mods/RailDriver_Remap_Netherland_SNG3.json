@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Netherland_SNG3",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "ZGN_NS_SNG3",
+			"Path": "DLC/ZGN_NS_SNG3"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
