@@ -1,0 +1,33 @@
+{
+	"Name": "RailDriver_Remap_UK_Class08_09",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "PBO_BR_Class08",
+			"Path": "DLC/PBO_BR_Class08"
+		},
+		{
+			"Name": "LMC_BR_Class08",
+			"Path": "DLC/LMC_BR_Class08"
+		},
+		{
+			"Name": "DSN_BR_Class08",
+			"Path": "DLC/DSN_BR_Class08"
+		},
+		{
+			"Name": "GWB_BR_Class08",
+			"Path": "DLC/GWB_BR_Class08"
+		},
+		{
+			"Name": "WSR_Class09",
+			"Path": "DLC/WSR_Class09"
+		},
+		{
+			"Name": "JT_BR_Class08_Pack01",
+			"Path": "DLC/JT_BR_Class08_Pack01"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

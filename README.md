@@ -135,6 +135,12 @@ Some Austrian locomotives shares same vehicle with Germany (e.g., ÖBB 1116 and 
 * NS ICM3
 * NS SNG3
 
+### UK
+
+#### Diesel Locomotives
+
+* Class 08/09
+
 ## Remapped Buttons & Levers
 
 The index of remapped buttons are stored in `raildriver-*-Remapped.docx`.
