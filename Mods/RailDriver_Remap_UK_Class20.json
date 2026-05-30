@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class20",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "DSN_BR_Class20",
+			"Path": "DLC/DSN_BR_Class20"
+		},
+		{
+			"Name": "SHG_CL-N_Class20_DRS",
+			"Path": "DLC/SHG_CL-N_Class20_DRS"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

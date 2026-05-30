@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class31",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "DSN_BR_Class31-1",
+			"Path": "DLC/DSN_BR_Class31-1"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

@@ -139,7 +139,11 @@ Some Austrian locomotives shares same vehicle with Germany (e.g., ÖBB 1116 and 
 
 #### Diesel Locomotives
 
+The listed locomotives and MUs below contain every kind of liveries.
+
 * Class 08/09
+* Class 20
+* Class 31
 
 ## Remapped Buttons & Levers
 
