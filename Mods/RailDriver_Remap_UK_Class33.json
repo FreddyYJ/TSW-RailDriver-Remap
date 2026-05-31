@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class33",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "WSR_Class33",
+			"Path": "DLC/WSR_Class33"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
