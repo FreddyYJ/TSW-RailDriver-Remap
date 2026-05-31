@@ -144,6 +144,9 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 08/09
 * Class 20
 * Class 31
+* Class 33
+* Class 37
+* Class 40
 
 ## Remapped Buttons & Levers
 

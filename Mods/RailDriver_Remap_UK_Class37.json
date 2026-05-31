@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_UK_Class37",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "DSN_BR_Class37-5",
+			"Path": "DLC/DSN_BR_Class37-5"
+		},
+		{
+			"Name": "NJP_BR_Class37-5",
+			"Path": "DLC/NJP_BR_Class37-5"
+		},
+		{
+			"Name": "PNZ_BR_Class37-5",
+			"Path": "DLC/PNZ_BR_Class37-5"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

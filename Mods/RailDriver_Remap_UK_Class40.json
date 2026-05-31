@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class40",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LMC_BR_Class40",
+			"Path": "DLC/LMC_BR_Class40"
+		},
+		{
+			"Name": "LE_BR_Class40",
+			"Path": "DLC/LE_BR_Class40"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
