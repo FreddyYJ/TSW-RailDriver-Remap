@@ -148,6 +148,10 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 37
 * Class 40
 
+#### DMUs
+
+* Class 43 HST (Class 125)
+
 ## Remapped Buttons & Levers
 
 The index of remapped buttons are stored in `raildriver-*-Remapped.docx`.

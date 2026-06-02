@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_UK_Class43_HST",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "GWR_HST",
+			"Path": "DLC/GWRHST"
+		},
+		{
+			"Name": "GDG_GWR_HST_Farewell",
+			"Path": "DLC/GDG_GWR_HST_Farewell"
+		},
+		{
+			"Name": "LDN_EMT_Class43",
+			"Path": "DLC/LDN_EMT_Class43"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
