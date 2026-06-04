@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class52",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "GWB_BR_Class52",
+			"Path": "DLC/GWB_BR_Class52"
+		},
+		{
+			"Name": "WSR_Class52",
+			"Path": "DLC/WSR_Class52"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
