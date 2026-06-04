@@ -1,0 +1,29 @@
+{
+	"Name": "RailDriver_Remap_UK_Class47",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LMC_BR_Class47-4",
+			"Path": "DLC/LMC_BR_Class47-4"
+		},
+		{
+			"Name": "LE_BR_Class47",
+			"Path": "DLC/LE_BR_Class47"
+		},
+		{
+			"Name": "PBO_BR_Class47-4",
+			"Path": "DLC/PBO_BR_Class47-4"
+		},
+		{
+			"Name": "JT_BR_Class47-4",
+			"Path": "DLC/JT_BR_Class47-4"
+		},
+		{
+			"Name": "WSR_Class47",
+			"Path": "DLC/WSR_Class47"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

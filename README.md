@@ -147,6 +147,8 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 33
 * Class 37
 * Class 40
+* Class 45
+* Class 47
 
 #### DMUs
 

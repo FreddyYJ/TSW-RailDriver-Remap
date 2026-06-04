@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class45",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LMC_BR_Class45-1",
+			"Path": "DLC/LMC_BR_Class45-1"
+		},
+		{
+			"Name": "LE_BR_Class45",
+			"Path": "DLC/LE_BR_Class45"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
