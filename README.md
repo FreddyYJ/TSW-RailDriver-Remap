@@ -137,9 +137,9 @@ Some Austrian locomotives shares same vehicle with Germany (e.g., ÖBB 1116 and 
 
 ### UK
 
-#### Diesel Locomotives
-
 The listed locomotives and MUs below contain every kind of liveries.
+
+#### Diesel Locomotives
 
 * Class 08/09
 * Class 20
@@ -150,6 +150,12 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 45
 * Class 47
 * Class 52
+* Class 66
+
+#### Electric Locomotives
+
+* Class 86
+* Class 87
 
 #### DMUs
 

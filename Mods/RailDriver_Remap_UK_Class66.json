@@ -1,0 +1,61 @@
+{
+	"Name": "RailDriver_Remap_UK_Class66",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "PBD_DB_Class66",
+			"Path": "DLC/PBD_DB_Class66"
+		},
+		{
+			"Name": "TTC_Class66",
+			"Path": "DLC/TTC_Class66"
+		},
+		{
+			"Name": "SHG_CL-A_Class66_EWS",
+			"Path": "DLC/SHG_CL-A_Class66_EWS"
+		},
+		{
+			"Name": "SHG_CL-I_Class66_DB",
+			"Path": "DLC/SHG_CL-I_Class66_DB"
+		},
+		{
+			"Name": "SHG_CL-M_Class66_DB",
+			"Path": "DLC/SHG_CL-M_Class66_DB"
+		},
+		{
+			"Name": "SHG_CL-P_Class66_EWS",
+			"Path": "DLC/SHG_CL-P_Class66_EWS"
+		},
+		{
+			"Name": "ATS_MAC_Class66",
+			"Path": "DLC/ATS_MAC_Class66"
+		},
+		{
+			"Name": "ECW_Class66",
+			"Path": "DLC/ECW_Class66"
+		},
+		{
+			"Name": "EDN_FP01_Class66",
+			"Path": "DLC/EDN_FP01_Class66"
+		},
+		{
+			"Name": "SEH_EWS_Class66",
+			"Path": "DLC/SEH_EWS_Class66"
+		},
+		{
+			"Name": "SEH_DB_Class66",
+			"Path": "DLC/SEH_DB_Class66"
+		},
+		{
+			"Name": "DBSClass66",
+			"Path": "DLC/DBSClass66"
+		},
+		{
+			"Name": "EMK_DB_Class66",
+			"Path": "DLC/EMK_DB_Class66"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class87",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "JT_BR_Class87",
+			"Path": "DLC/JT_BR_Class87"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

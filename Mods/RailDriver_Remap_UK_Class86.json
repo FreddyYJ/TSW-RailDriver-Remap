@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class86",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "JT_BR_Class86-2_Pack01",
+			"Path": "DLC/JT_BR_Class86-2_Pack01"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
