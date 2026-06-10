@@ -156,6 +156,7 @@ The listed locomotives and MUs below contain every kind of liveries.
 
 * Class 86
 * Class 87
+* Class 90
 
 #### DMUs
 

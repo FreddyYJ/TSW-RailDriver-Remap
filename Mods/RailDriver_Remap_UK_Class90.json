@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class90",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "ATS_Class90Freight",
+			"Path": "DLC/ATS_Class90Freight"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
