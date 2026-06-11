@@ -1,0 +1,25 @@
+{
+	"Name": "RailDriver_Remap_UK_Class101",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "DSN_BR_Class101",
+			"Path": "DLC/DSN_BR_Class101"
+		},
+		{
+			"Name": "GWB_BR_Class101",
+			"Path": "DLC/GWB_BR_Class101"
+		},
+		{
+			"Name": "LMC_BR_Class101",
+			"Path": "DLC/LMC_BR_Class101"
+		},
+		{
+			"Name": "JT_BR_Class101_Pack01",
+			"Path": "DLC/JT_BR_Class101_Pack01"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

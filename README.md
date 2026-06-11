@@ -161,6 +161,7 @@ The listed locomotives and MUs below contain every kind of liveries.
 #### DMUs
 
 * Class 43 HST (Class 125)
+* Class 101
 
 ## Remapped Buttons & Levers
 
