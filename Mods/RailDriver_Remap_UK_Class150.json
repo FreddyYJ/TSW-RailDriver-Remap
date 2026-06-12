@@ -1,0 +1,25 @@
+{
+	"Name": "RailDriver_Remap_UK_Class150",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "PNZ_BR_Class150",
+			"Path": "DLC/PNZ_BR_Class150"
+		},
+		{
+			"Name": "CCC_TFW_Class150",
+			"Path": "DLC/CCC_TFW_Class150"
+		},
+		{
+			"Name": "RIV_GWR_Class150",
+			"Path": "DLC/RIV_GWR_Class150"
+		},
+		{
+			"Name": "JT_TFW_Class150",
+			"Path": "DLC/JT_TFW_Class150"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
