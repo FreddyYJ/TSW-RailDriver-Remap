@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class142",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "JT_TFW_Class142",
+			"Path": "DLC/JT_TFW_Class142"
+		},
+		{
+			"Name": "PBO_BR_Class142",
+			"Path": "DLC/PBO_BR_Class142"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
