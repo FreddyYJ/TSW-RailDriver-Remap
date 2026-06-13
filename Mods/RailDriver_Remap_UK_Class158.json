@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class158",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LDN_EMT_Class158-2",
+			"Path": "DLC/LDN_EMT_Class158-2"
+		},
+		{
+			"Name": "SHG_Class158_SR",
+			"Path": "DLC/SHG_Class158_SR"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

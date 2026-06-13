@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class153",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "CCC_TFW_Class153",
+			"Path": "DLC/CCC_TFW_Class153"
+		},
+		{
+			"Name": "JT_TFW_Class153",
+			"Path": "DLC/JT_TFW_Class153"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

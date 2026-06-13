@@ -164,6 +164,8 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 101
 * Class 142
 * Class 150
+* Class 153
+* Class 158
 
 ## Remapped Buttons & Levers
 
