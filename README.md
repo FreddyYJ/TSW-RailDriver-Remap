@@ -170,6 +170,7 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 158
 * Class 166
 * Class 170/171
+* Class 220
 
 ## Remapped Buttons & Levers
 

@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class220",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "RIV_XC_Class220",
+			"Path": "DLC/RIV_XC_Class220"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
