@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class166",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "GWR_Class166",
+			"Path": "DLC/GWRClass166"
+		},
+		{
+			"Name": "NLL_Class165",
+			"Path": "DLC/NLL_Class165"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

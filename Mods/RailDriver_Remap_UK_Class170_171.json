@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_UK_Class170_171",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BCC_Class170_Pack01",
+			"Path": "DLC/BCC_Class170_Pack01"
+		},
+		{
+			"Name": "FCE_BR_Class170",
+			"Path": "DLC/FCE_BR_Class170"
+		},
+		{
+			"Name": "ECW_SN_Class171",
+			"Path": "DLC/ECW_SN_Class171"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

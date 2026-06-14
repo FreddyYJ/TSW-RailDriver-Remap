@@ -160,12 +160,16 @@ The listed locomotives and MUs below contain every kind of liveries.
 
 #### DMUs
 
+:warning: IMPORTANT!!! Class 101, 166 and 170/171's throttle is terribly working due to the TSW issue. This is not in my side; but please wait until I found how to fix this issue.
+
 * Class 43 HST (Class 125)
 * Class 101
 * Class 142
 * Class 150
 * Class 153
 * Class 158
+* Class 166
+* Class 170/171
 
 ## Remapped Buttons & Levers
 
