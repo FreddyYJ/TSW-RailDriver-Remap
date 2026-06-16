@@ -1,0 +1,33 @@
+{
+	"Name": "RailDriver_Remap_UK_LMS_Steam",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "PFT_LMS_8F",
+			"Path": "DLC/PFT_LMS_8F"
+		},
+		{
+			"Name": "PFT_LMS_4F",
+			"Path": "DLC/PFT_LMS_4F"
+		},
+		{
+			"Name": "PFT_LMS_Jubilee",
+			"Path": "DLC/PFT_LMS_Jubilee"
+		},
+		{
+			"Name": "LPC_LMS_Jubilee",
+			"Path": "DLC/LPC_LMS_Jubilee"
+		},
+		{
+			"Name": "LPC_LMS_8F",
+			"Path": "DLC/LPC_LMS_8F"
+		},
+		{
+			"Name": "SS_LMS_Jubilee",
+			"Path": "DLC/SS_LMS_Jubilee"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
