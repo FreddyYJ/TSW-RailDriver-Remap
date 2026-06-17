@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Flying_Scotsman",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "PBD_BR_FlyingScotsman",
+			"Path": "DLC/PBD_BR_FlyingScotsman"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

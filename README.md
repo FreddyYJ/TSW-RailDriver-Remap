@@ -158,6 +158,11 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 87
 * Class 90
 
+#### Steam Locomotives
+
+* LMS Steam Locomotives (Fowler 4F, Stanier 8F and Jubilee)
+* LMS Flying Scotsman
+
 #### DMUs
 
 * Class 43 HST (Class 125)
