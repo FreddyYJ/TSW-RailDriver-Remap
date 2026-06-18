@@ -175,6 +175,10 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 170/171
 * Class 220
 
+#### EMUs
+
+* Class 313
+
 ## Remapped Buttons & Levers
 
 The index of remapped buttons are stored in `raildriver-*-Remapped.docx`.

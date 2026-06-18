@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class313",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "ECW_SN_Class313-2",
+			"Path": "DLC/ECW_SN_Class313-2"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
