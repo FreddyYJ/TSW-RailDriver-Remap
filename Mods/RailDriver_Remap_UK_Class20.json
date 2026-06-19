@@ -9,6 +9,10 @@
 		{
 			"Name": "SHG_CL-N_Class20_DRS",
 			"Path": "DLC/SHG_CL-N_Class20_DRS"
+		},
+		{
+			"Name": "JT_BR_Class20_Pack01",
+			"Path": "DLC/JT_BR_Class20_Pack01"
 		}
 	],
 	"DLCDependencies": [],

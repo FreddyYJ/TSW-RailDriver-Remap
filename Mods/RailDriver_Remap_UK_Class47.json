@@ -21,6 +21,10 @@
 		{
 			"Name": "WSR_Class47",
 			"Path": "DLC/WSR_Class47"
+		},
+		{
+			"Name": "JT_BR_Class47-3_Pack01",
+			"Path": "DLC/JT_BR_Class47-3_Pack01"
 		}
 	],
 	"DLCDependencies": [],

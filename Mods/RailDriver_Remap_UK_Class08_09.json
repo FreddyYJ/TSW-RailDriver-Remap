@@ -25,6 +25,10 @@
 		{
 			"Name": "JT_BR_Class08_Pack01",
 			"Path": "DLC/JT_BR_Class08_Pack01"
+		},
+		{
+			"Name": "JT_BR_Class08_Pack02",
+			"Path": "DLC/JT_BR_Class08_Pack02"
 		}
 	],
 	"DLCDependencies": [],
