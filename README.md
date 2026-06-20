@@ -178,6 +178,9 @@ The listed locomotives and MUs below contain every kind of liveries.
 #### EMUs
 
 * Class 313
+* Class 314
+* Class 323
+* Class 350
 
 ## Remapped Buttons & Levers
 

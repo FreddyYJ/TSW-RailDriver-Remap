@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class314",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "GCC_ScR_Class314",
+			"Path": "DLC/GCC_ScR_Class314"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

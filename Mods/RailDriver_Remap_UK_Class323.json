@@ -1,0 +1,25 @@
+{
+	"Name": "RailDriver_Remap_UK_Class323",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "ATS_Class323_Northern",
+			"Path": "DLC/ATS_Class323_Northern"
+		},
+		{
+			"Name": "BCC_RR_Class323",
+			"Path": "DLC/BCC_RR_Class323"
+		},
+		{
+			"Name": "BCC_WMR_Class323",
+			"Path": "DLC/BCC_WMR_Class323"
+		},
+		{
+			"Name": "MGP_NT_Class323",
+			"Path": "DLC/MGP_NT_Class323"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

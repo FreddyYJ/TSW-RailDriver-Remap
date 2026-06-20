@@ -1,0 +1,33 @@
+{
+	"Name": "RailDriver_Remap_UK_Class350",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "AABS_Class350_1",
+			"Path": "DLC/AABS_Class350_1"
+		},
+		{
+			"Name": "AABS_Class350_2",
+			"Path": "DLC/AABS_Class350_2"
+		},
+		{
+			"Name": "AABS_Class350_3",
+			"Path": "DLC/AABS_Class350_3"
+		},
+		{
+			"Name": "AABS_Class350_4",
+			"Path": "DLC/AABS_Class350_4"
+		},
+		{
+			"Name": "AABS_Class350_BTP",
+			"Path": "DLC/AABS_Class350_BTP"
+		},
+		{
+			"Name": "EMK_Class350-1",
+			"Path": "DLC/EMK_Class350-1"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
