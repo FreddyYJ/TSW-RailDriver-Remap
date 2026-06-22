@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class378",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "NLL_Class378",
+			"Path": "DLC/NLL_Class378"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

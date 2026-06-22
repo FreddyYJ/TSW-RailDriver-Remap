@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class380",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "GCC_ScR_Class380",
+			"Path": "DLC/GCC_ScR_Class380"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
