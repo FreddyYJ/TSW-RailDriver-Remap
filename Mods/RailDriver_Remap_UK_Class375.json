@@ -1,0 +1,25 @@
+{
+	"Name": "RailDriver_Remap_UK_Class375",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "MVL_SE_Class375-3",
+			"Path": "DLC/MVL_SE_Class375-3"
+		},
+		{
+			"Name": "MVL_SE_Class375-6",
+			"Path": "DLC/MVL_SE_Class375-6"
+		},
+		{
+			"Name": "NJP_SE_Class375",
+			"Path": "DLC/NJP_SE_Class375"
+		},
+		{
+			"Name": "SEH_SE_Class375-9",
+			"Path": "DLC/SEH_SE_Class375-9"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

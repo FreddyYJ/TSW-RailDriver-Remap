@@ -1,0 +1,25 @@
+{
+	"Name": "RailDriver_Remap_UK_Class377",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "ECW_SN_Class377-3",
+			"Path": "DLC/ECW_SN_Class377-3"
+		},
+		{
+			"Name": "ECW_SN_Class377-4",
+			"Path": "DLC/ECW_SN_Class377-4"
+		},
+		{
+			"Name": "LBN_SN_Class377-4",
+			"Path": "DLC/LBN_SN_Class377-4"
+		},
+		{
+			"Name": "EMK_SN_Class377-2",
+			"Path": "DLC/EMK_SN_Class377-2"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
