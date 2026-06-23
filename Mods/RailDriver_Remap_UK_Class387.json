@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class387",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LBN_GX_Class387",
+			"Path": "DLC/LBN_GX_Class387"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class385",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "EDN_SR_Class385",
+			"Path": "DLC/EDN_SR_Class385"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
