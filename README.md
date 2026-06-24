@@ -187,6 +187,7 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 380
 * Class 385
 * Class 387
+* Class 390
 
 ## Remapped Buttons & Levers
 

@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class390",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "EMK_AWC_Class390",
+			"Path": "DLC/EMK_AWC_Class390"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
