@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class395",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SEH_SE_Class395",
+			"Path": "DLC/SEH_SE_Class395"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
