@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class483",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "IOW_BR_Class483",
+			"Path": "DLC/IOW_BR_Class483"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
