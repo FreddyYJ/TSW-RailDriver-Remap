@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class700",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SEH_TL_Class700",
+			"Path": "DLC/SEH_TL_Class700"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
