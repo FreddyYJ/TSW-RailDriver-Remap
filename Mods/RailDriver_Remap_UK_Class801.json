@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class801",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "PBD_LNER_Class801",
+			"Path": "DLC/PBD_LNER_Class801"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

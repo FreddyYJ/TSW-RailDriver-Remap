@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class710",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "GOB_Class710",
+			"Path": "DLC/GOB_Class710"
+		},
+		{
+			"Name": "NLL_Class710",
+			"Path": "DLC/NLL_Class710"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

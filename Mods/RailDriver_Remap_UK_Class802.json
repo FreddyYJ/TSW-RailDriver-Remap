@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class802",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "RIV_GBR_Class802",
+			"Path": "DLC/RIV_GBR_Class802"
+		},
+		{
+			"Name": "RIV_GWR_Class802",
+			"Path": "DLC/RIV_GWR_Class802"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
