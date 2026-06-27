@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_UK_Class805_807",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "AABS_Class805",
+			"Path": "DLC/AABS_Class805"
+		},
+		{
+			"Name": "AABS_Class807",
+			"Path": "DLC/AABS_Class807"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

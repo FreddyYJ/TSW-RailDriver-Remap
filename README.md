@@ -195,6 +195,7 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 710
 * Class 801
 * Class 802
+* Class 805/807
 
 ## Remapped Buttons & Levers
 
