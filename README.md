@@ -177,6 +177,8 @@ The listed locomotives and MUs below contain every kind of liveries.
 
 #### EMUs
 
+* 1938 Tube Stock
+* 1972 Tube Stock
 * Class 313
 * Class 314
 * Class 323

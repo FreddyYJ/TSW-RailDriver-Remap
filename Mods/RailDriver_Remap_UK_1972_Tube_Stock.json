@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_UK_1972_Tube_Stock",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BKR_LUL_72stock",
+			"Path": "DLC/BKR_LUL_72stock"
+		},
+		{
+			"Name": "CTP_Bakerloo_72stock",
+			"Path": "DLC/CTP_Bakerloo_72stock"
+		},
+		{
+			"Name": "EMK_LUL_72stock",
+			"Path": "DLC/EMK_LUL_72stock"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_1938_Tube_Stock",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BKR_LUL_38stock",
+			"Path": "DLC/BKR_LUL_38stock"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
