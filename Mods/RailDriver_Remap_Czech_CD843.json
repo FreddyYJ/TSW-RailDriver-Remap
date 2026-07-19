@@ -3,8 +3,8 @@
 	"DisplayName": "",
 	"Plugins": [
 		{
-			"Name": "TTC_SD40-2",
-			"Path": "DLC/TTC_SD40-2"
+			"Name": "LBSP_Class843",
+			"Path": "DLC/LBSP_Class843"
 		}
 	],
 	"DLCDependencies": [],

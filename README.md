@@ -18,9 +18,6 @@ See below to check supported nations.
 This work is still in progress and alpha-level.
 If you want to contribute or experiencing an issue, please see [Contributing](#contributing).
 
-Some controls refer to Roman72's RailDriver Remapping.
-Check out their [works](https://www.trainsimcommunity.com/user/486412-roman72/uploads) if you want!
-
 ## To install
 
 To install the mods, just copy the `.pak` files in `Build/` directory to TSW DLC directory.
@@ -101,13 +98,6 @@ The listed locomotives below contains the other liveries (e.g., DBB, MRCE, RailP
 * DB BR 642
 
 ### Czech
-
-Czech locomotives do not support RailDriver originally.
-Therefore, I overrides NJ Bi-level cab car and SD40-2 with training center livery.
-It may not affect the other liveries (i.e., NJ transit, CSX and UP).
-
-CD 750 and CD 843 are refer to the Roman72's RailDriver Remapping a lot.
-To check their Czech remapping, visit [their upload](https://www.trainsimcommunity.com/mods/c3-train-sim-world/c109-other/i6921-tsw6-raildriver-remapping).
 
 * CD 750
 * CD 843

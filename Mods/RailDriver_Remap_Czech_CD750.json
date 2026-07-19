@@ -3,8 +3,8 @@
 	"DisplayName": "",
 	"Plugins": [
 		{
-			"Name": "TTC_NJT_BiLevels",
-			"Path": "DLC/TTC_NJT_BiLevels"
+			"Name": "LBSP_Class750",
+			"Path": "DLC/LBSP_Class750"
 		}
 	],
 	"DLCDependencies": [],
