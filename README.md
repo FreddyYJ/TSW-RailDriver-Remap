@@ -189,6 +189,12 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 802
 * Class 805/807
 
+### USA
+
+#### Diesel Locomotives
+
+* GP60M (BNSF H2, H4)
+
 ## Remapped Buttons & Levers
 
 The index of remapped buttons are stored in `raildriver-*-Remapped.docx`.
@@ -245,8 +251,8 @@ I don't have a roadmap with exact date, but I have a simple plan to add the rema
 4. German DMUs ... :heavy_check_mark:
 5. German diesel & shunting locomotives ... :heavy_check_mark:
 6. Austria/France/Switzerland/Netherland ... :heavy_check_mark:
-7. UK ... :construction:
-8. USA
+7. UK ... :heavy_check_mark:
+8. USA ... :construction:
 
 ## Directory Structures
 

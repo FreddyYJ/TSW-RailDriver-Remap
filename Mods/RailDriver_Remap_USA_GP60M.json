@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_GP60M",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "GP60M_BNSF1",
+			"Path": "DLC/GP60M_BNSF1"
+		},
+		{
+			"Name": "GP60M_BNSF2",
+			"Path": "DLC/GP60M_BNSF2"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
