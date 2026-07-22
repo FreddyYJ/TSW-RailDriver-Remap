@@ -161,7 +161,7 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 150
 * Class 153
 * Class 158
-* Class 166
+* Class 165/166
 * Class 170/171
 * Class 220
 

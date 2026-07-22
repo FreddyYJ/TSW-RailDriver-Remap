@@ -1,5 +1,5 @@
 {
-	"Name": "RailDriver_Remap_UK_Class166",
+	"Name": "RailDriver_Remap_UK_Class165_166",
 	"DisplayName": "",
 	"Plugins": [
 		{
@@ -9,6 +9,10 @@
 		{
 			"Name": "NLL_Class165",
 			"Path": "DLC/NLL_Class165"
+		},
+		{
+			"Name": "IT_THB_Class165",
+			"Path": "DLC/IT_THB_Class165"
 		}
 	],
 	"DLCDependencies": [],
