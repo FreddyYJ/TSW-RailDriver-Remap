@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_AC4400CW",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "CCB_UP_AC4400CW",
+			"Path": "DLC/CCB_UP_AC4400CW"
+		},
+		{
+			"Name": "CSXAC4400CW",
+			"Path": "DLC/AC4400CW_YN3b"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
