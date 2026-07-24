@@ -194,6 +194,8 @@ The listed locomotives and MUs below contain every kind of liveries.
 #### Diesel Locomotives
 
 * GP60M (BNSF H2, H4)
+* AC4400CW (CSX, UP)
+* ES44C4 (BNSF)
 
 ## Remapped Buttons & Levers
 
@@ -253,6 +255,7 @@ I don't have a roadmap with exact date, but I have a simple plan to add the rema
 6. Austria/France/Switzerland/Netherland ... :heavy_check_mark:
 7. UK ... :heavy_check_mark:
 8. USA ... :construction:
+9. Japan
 
 ## Directory Structures
 

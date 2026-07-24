@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_ES44C4",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "CJP_BNSF_ES44C4",
+			"Path": "DLC/CJP_BNSF_ES44C4"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
