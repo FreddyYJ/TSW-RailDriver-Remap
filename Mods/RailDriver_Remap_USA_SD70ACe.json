@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_USA_SD70ACe",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "NJP_BNSF_SD70ACe",
+			"Path": "DLC/NJP_BNSF_SD70ACe"
+		},
+		{
+			"Name": "SMH_UP_SD70ACe",
+			"Path": "DLC/SMH_UP_SD70ACe"
+		},
+		{
+			"Name": "SMH_UPHC_SD70ACe",
+			"Path": "DLC/SMH_UPHC_SD70ACe"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
