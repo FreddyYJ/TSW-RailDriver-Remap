@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_GP38_2_CN",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "TOR_CN_GP38-2",
+			"Path": "DLC/TOR_CN_GP38-2"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

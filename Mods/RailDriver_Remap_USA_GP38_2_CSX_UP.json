@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_GP38_2_CSX_UP",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "CSXGP38-2",
+			"Path": "DLC/CSX_GP38-2"
+		},
+		{
+			"Name": "SFJ_CT_GP38-2",
+			"Path": "DLC/SFJ_CT_GP38-2"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
