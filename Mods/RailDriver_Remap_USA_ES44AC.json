@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_ES44AC",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "HSC_NS_ES44AC",
+			"Path": "DLC/HSC_NS_ES44AC"
+		},
+		{
+			"Name": "HSC_NSHC_ES44AC_2",
+			"Path": "DLC/HSC_NSHC_ES44AC_2"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

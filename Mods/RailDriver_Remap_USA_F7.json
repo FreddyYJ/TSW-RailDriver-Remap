@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_USA_F7",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "CRR_F7",
+			"Path": "DLC/CRR_F7"
+		},
+		{
+			"Name": "CJP_FE_F7",
+			"Path": "DLC/CJP_FE_F7"
+		},
+		{
+			"Name": "HDX_F7",
+			"Path": "DLC/HDX_F7"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

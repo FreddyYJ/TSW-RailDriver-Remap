@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_C40_8W",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "CJP_ATSF_C408W",
+			"Path": "DLC/CJP_ATSF_C408W"
+		},
+		{
+			"Name": "SPG_CSX_C40-8W",
+			"Path": "DLC/SPG_CSX_C40-8W"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
