@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_GP9RM",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "TOR_CN_GP9RM",
+			"Path": "DLC/TOR_CN_GP9RM"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

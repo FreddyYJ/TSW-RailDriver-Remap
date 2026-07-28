@@ -193,9 +193,19 @@ The listed locomotives and MUs below contain every kind of liveries.
 
 #### Diesel Locomotives
 
+GP38-2 has different key and control depends on the livery.
+
 * GP60M (BNSF H2, H4)
 * AC4400CW (CSX, UP)
 * ES44C4 (BNSF)
+* SD70ACe (BNSF, UP, UP Heritage)
+* C40-8W (ATSF, CSX)
+* ES44AC (NS, NS Heritage)
+* F7 (ATSF, CRR)
+* GP38-2 CSX/UP
+* GP38-2 NS
+* GP38-2 CN
+* GP9RM (CN)
 
 ## Remapped Buttons & Levers
 
