@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_SD40",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "CRR_SD40",
+			"Path": "DLC/CRR_SD40"
+		},
+		{
+			"Name": "CTP_SandPatchGrade_SD40",
+			"Path": "DLC/CTP_SandPatchGrade_SD40"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

@@ -206,6 +206,7 @@ GP38-2 has different key and control depends on the livery.
 * GP38-2 NS
 * GP38-2 CN
 * GP9RM (CN)
+* SD40 (CRR, CSX) (CSX SD40-2 not included)
 
 ## Remapped Buttons & Levers
 
