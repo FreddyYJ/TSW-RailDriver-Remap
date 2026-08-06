@@ -208,6 +208,7 @@ GP38-2 has different key and control depends on the livery.
 * GP9RM (CN)
 * SD40 (CRR, CSX) (CSX SD40-2 not included)
 * SD40-2 (CSX, UP, ATSF, BNSF)
+* MP15DC (Caltrain)
 
 ## Remapped Buttons & Levers
 

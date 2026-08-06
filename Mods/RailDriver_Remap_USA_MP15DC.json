@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_MP15DC",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SFJ_CT_MP15DC",
+			"Path": "DLC/SFJ_CT_MP15DC"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
