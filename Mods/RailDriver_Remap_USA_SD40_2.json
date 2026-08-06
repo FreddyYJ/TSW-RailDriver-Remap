@@ -1,0 +1,33 @@
+{
+	"Name": "RailDriver_Remap_USA_SD40_2",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SD40-2_YN3b",
+			"Path": "DLC/SD40-2_YN3b"
+		},
+		{
+			"Name": "CCB_UP_SD40-2",
+			"Path": "DLC/CCB_UP_SD40-2"
+		},
+		{
+			"Name": "CJP_ATSF_SD40_2_02",
+			"Path": "DLC/CJP_ATSF_SD40_2_02"
+		},
+		{
+			"Name": "CJP_BNSF_SD40-2",
+			"Path": "DLC/CJP_BNSF_SD40-2"
+		},
+		{
+			"Name": "NYS_SD40-2_YN3b",
+			"Path": "DLC/NYS_SD40-2_YN3b"
+		},
+		{
+			"Name": "SMH_UP_SD40-2",
+			"Path": "DLC/SMH_UP_SD40-2"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
