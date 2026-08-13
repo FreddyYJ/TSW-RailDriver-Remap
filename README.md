@@ -191,6 +191,8 @@ The listed locomotives and MUs below contain every kind of liveries.
 
 ### USA
 
+Currently USA routes does not have any EMUs.
+
 #### Diesel Locomotives
 
 GP38-2 has different key and control depends on the livery.
@@ -209,6 +211,15 @@ GP38-2 has different key and control depends on the livery.
 * SD40 (CRR, CSX) (CSX SD40-2 not included)
 * SD40-2 (CSX, UP, ATSF, BNSF)
 * MP15DC (Caltrain)
+* F40PH-2CAT (Caltrain)
+
+#### Electric Locomotives
+
+#### Cab Cars
+
+* Gallery Cab Car (Caltrain)
+
+#### EMUs
 
 ## Remapped Buttons & Levers
 

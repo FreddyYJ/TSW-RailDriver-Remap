@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_Gallery_Cab_Car",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SFJ_CT_Nippon",
+			"Path": "DLC/SFJ_CT_Nippon"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

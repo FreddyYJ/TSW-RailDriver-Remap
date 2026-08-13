@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_F40PH_2CAT",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SFJ_CT_F40PH-2CAT",
+			"Path": "DLC/SFJ_CT_F40PH-2CAT"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
