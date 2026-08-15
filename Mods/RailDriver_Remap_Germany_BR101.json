@@ -5,6 +5,10 @@
 		{
 			"Name": "NRM_DB_BR101",
 			"Path": "DLC/NRM_DB_BR101"
+		},
+		{
+			"Name": "SFS_DB_BR101",
+			"Path": "DLC/SFS_DB_BR101"
 		}
 	],
 	"DLCDependencies": [],

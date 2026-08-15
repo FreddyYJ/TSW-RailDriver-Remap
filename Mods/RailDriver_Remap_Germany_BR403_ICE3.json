@@ -13,6 +13,10 @@
 		{
 			"Name": "NJP_BR_ICE3",
 			"Path": "DLC/NJP_BR_ICE3"
+		},
+		{
+			"Name": "SFS_DB_ICE3",
+			"Path": "DLC/SFS_DB_ICE3"
 		}
 	],
 	"DLCDependencies": [],

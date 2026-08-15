@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR286",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SFS_MuNu_Coaches",
+			"Path": "DLC/SFS_MuNu_Coaches"
+		},
+		{
+			"Name": "CRG_DB_BR101_Expert_Coaches",
+			"Path": "DLC/CRG_DB_BR101_Expert_Coaches"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

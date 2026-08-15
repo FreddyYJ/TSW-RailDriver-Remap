@@ -47,7 +47,7 @@ The listed locomotives below contains the other liveries (e.g., DBB, MRCE, RailP
 #### Electric Locomotives
 
 * DB BR 101
-* DB BR 101 Expert and DB BR 286
+* DB BR 101 Expert
 * DB BR 103
 * DB BR 110
 * DB BR 111
@@ -74,6 +74,7 @@ The listed locomotives below contains the other liveries (e.g., DBB, MRCE, RailP
 
 #### Cab Cars
 
+* DB BR 286 Bpmmbdzf
 * DB Doppelstockwagen (DB BR 766 and 767)
 * DB BR 463 Electric
 * DB BR 463 Diesel
