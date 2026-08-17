@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_Bombardier_Bilevel_Cab_Car",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SFJ_CT_BiLevelCoach",
+			"Path": "DLC/SFJ_CT_BiLevelCoach"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

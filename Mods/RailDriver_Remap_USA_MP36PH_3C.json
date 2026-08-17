@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_MP36PH_3C",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SFJ_CT_MP36PH-3C",
+			"Path": "DLC/SFJ_CT_MP36PH-3C"
+		},
+		{
+			"Name": "SBD_ML_MP36PH-3C",
+			"Path": "DLC/SBD_ML_MP36"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
