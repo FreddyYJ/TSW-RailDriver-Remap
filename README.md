@@ -216,6 +216,7 @@ GP38-2 has different key and control depends on the livery.
 * MP36PH-3C (Caltrain, Metrolink)
 * Bombardier Bi-Level Cab Car (Caltrain)
 * F125 (Metrolink)
+* F59PHR (Metrolink)
 
 #### Electric Locomotives
 

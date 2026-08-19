@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_F59PHR",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "SBD_ML_F59PH",
+			"Path": "DLC/SBD_ML_F59PH"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
