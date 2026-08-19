@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_F125",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "ALV_ML_F125",
+			"Path": "DLC/ALV_ML_F125"
+		},
+		{
+			"Name": "SBD_ML_F125",
+			"Path": "DLC/SBD_ML_F125"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
