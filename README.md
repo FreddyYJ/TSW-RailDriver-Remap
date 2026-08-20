@@ -214,7 +214,6 @@ GP38-2 has different key and control depends on the livery.
 * MP15DC (Caltrain)
 * F40PH-2CAT (Caltrain)
 * MP36PH-3C (Caltrain, Metrolink)
-* Bombardier Bi-Level Cab Car (Caltrain)
 * F125 (Metrolink)
 * F59PHR (Metrolink)
 
@@ -223,6 +222,8 @@ GP38-2 has different key and control depends on the livery.
 #### Cab Cars
 
 * Gallery Cab Car (Caltrain)
+* Bombardier Bi-Level Cab Car (Caltrain)
+* Rotem Bi-Level Cab Car (Metrolink)
 
 #### EMUs
 

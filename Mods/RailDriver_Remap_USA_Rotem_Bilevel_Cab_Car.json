@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_Rotem_Bilevel_Cab_Car",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "ALV_ML_RotemCars",
+			"Path": "DLC/ALV_ML_RotemCars"
+		},
+		{
+			"Name": "SBD_ML_RotemCars",
+			"Path": "DLC/SBD_ML_RotemCars"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
