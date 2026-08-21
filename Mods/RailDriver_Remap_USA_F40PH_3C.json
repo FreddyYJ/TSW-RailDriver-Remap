@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_F40PH_3C",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BPE_MBTA_F40PH-3C",
+			"Path": "DLC/BPE_MBTA_F40PH-3C"
+		},
+		{
+			"Name": "BOW_MBTA_F40PH-3C",
+			"Path": "DLC/BOW_MBTA_F40PH-3C"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
