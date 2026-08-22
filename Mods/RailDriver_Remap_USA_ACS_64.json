@@ -1,0 +1,25 @@
+{
+	"Name": "RailDriver_Remap_USA_ACS_64",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BPE_AMTK_ACS64",
+			"Path": "DLC/BPE_AMTK_ACS64"
+		},
+		{
+			"Name": "BPE_AMTK50_ACS64",
+			"Path": "DLC/BPE_AMTK50_ACS64"
+		},
+		{
+			"Name": "NYS_AMTK_ACS64",
+			"Path": "DLC/NYS_AMTK_ACS64"
+		},
+		{
+			"Name": "NYT_AMTK_ACS64",
+			"Path": "DLC/NYT_AMTK_ACS64"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

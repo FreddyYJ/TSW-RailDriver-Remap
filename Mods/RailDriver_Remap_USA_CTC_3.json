@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_USA_CTC_3",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BPE_MBTA_SingleDeckCars",
+			"Path": "DLC/BPE_MBTA_SingleDeckCars"
+		},
+		{
+			"Name": "BPE_MBTA_SingleDeckCars_V2",
+			"Path": "DLC/BPE_MBTA_SingleDeckCars_V2"
+		},
+		{
+			"Name": "BOW_MBTA_SingleDeckCars",
+			"Path": "DLC/BOW_MBTA_SingleDeckCars"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

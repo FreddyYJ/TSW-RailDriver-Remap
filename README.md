@@ -217,14 +217,19 @@ GP38-2 has different key and control depends on the livery.
 * F125 (Metrolink)
 * F59PHR (Metrolink)
 * F40PH-3C (MBTA)
+* HSP46 (MBTA)
 
 #### Electric Locomotives
+
+* ACS-64 (Amtrak)
 
 #### Cab Cars
 
 * Gallery Cab Car (Caltrain)
 * Bombardier Bi-Level Cab Car (Caltrain)
 * Rotem Bi-Level Cab Car (Metrolink)
+* CTC-3 (MBTA)
+* CTC-5 (MBTA)
 
 #### EMUs
 

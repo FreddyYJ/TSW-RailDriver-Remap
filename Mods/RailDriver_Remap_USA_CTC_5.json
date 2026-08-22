@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_CTC_5",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BOW_MBTA_DoubleDeckCars",
+			"Path": "DLC/BOW_MBTA_DoubleDeckCars"
+		},
+		{
+			"Name": "BPE_MBTA_DoubleDeckCars",
+			"Path": "DLC/BPE_MBTA_DoubleDeckCars"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

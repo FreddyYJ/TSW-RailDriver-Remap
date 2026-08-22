@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_HSP46",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BPE_MBTA_HSP-46",
+			"Path": "DLC/BPE_MBTA_HSP-46"
+		},
+		{
+			"Name": "BOW_MBTA_HSP-46",
+			"Path": "DLC/BOW_MBTA_HSP-46"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
