@@ -222,6 +222,8 @@ GP38-2 has different key and control depends on the livery.
 #### Electric Locomotives
 
 * ACS-64 (Amtrak)
+* ALP-45DP (NJT)
+* ALP-46 (NJT)
 
 #### Cab Cars
 
@@ -231,6 +233,7 @@ GP38-2 has different key and control depends on the livery.
 * CTC-3 (MBTA)
 * CTC-5 (MBTA)
 * Amfleet Cab Car (Amtrak)
+* Multi-Level Commuter Cab Car (NJT)
 
 #### EMUs
 

@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_Multilevel_Commuter_Cab_Car",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "NYT_NJT_BiLevels",
+			"Path": "DLC/NYT_NJT_BiLevels"
+		},
+		{
+			"Name": "TTC_NJT_BiLevels",
+			"Path": "DLC/TTC_NJT_BiLevels"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

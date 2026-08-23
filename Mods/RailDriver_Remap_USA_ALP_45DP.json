@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_ALP_45DP",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "MRT_NJT_ALP45DP",
+			"Path": "DLC/MRT_NJT_ALP45DP"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_ALP_46",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "MRT_NJT_ALP46",
+			"Path": "DLC/MRT_NJT_ALP46"
+		},
+		{
+			"Name": "NYT_NJT_ALP46",
+			"Path": "DLC/NYT_NJT_ALP46"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
