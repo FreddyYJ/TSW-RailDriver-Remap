@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_Amfleet_Cab_Car",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "NYT_AMTK_Amfleet",
+			"Path": "DLC/NYT_AMTK_Amfleet"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

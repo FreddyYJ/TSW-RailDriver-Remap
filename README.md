@@ -230,6 +230,7 @@ GP38-2 has different key and control depends on the livery.
 * Rotem Bi-Level Cab Car (Metrolink)
 * CTC-3 (MBTA)
 * CTC-5 (MBTA)
+* Amfleet Cab Car (Amtrak)
 
 #### EMUs
 
