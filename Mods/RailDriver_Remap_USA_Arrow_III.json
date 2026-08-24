@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_Arrow_III",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "MRT_NJT_ArrowIII",
+			"Path": "DLC/MRT_NJT_ArrowIII"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
