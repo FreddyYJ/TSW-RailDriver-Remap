@@ -239,6 +239,7 @@ GP38-2 has different key and control depends on the livery.
 
 * Arrow III (NJT)
 * Acela (Amtrak)
+* M3/M3A (LIRR, MNRR)
 
 ## Remapped Buttons & Levers
 

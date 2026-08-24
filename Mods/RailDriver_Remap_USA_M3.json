@@ -1,0 +1,17 @@
+{
+	"Name": "RailDriver_Remap_USA_M3",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LIRR_M3",
+			"Path": "DLC/LIRR_M3"
+		},
+		{
+			"Name": "NYH_MNR_M3a",
+			"Path": "DLC/NYH_MNR_M3a"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
