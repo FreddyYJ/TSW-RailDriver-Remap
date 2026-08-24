@@ -237,6 +237,9 @@ GP38-2 has different key and control depends on the livery.
 
 #### EMUs
 
+* Arrow III (NJT)
+* Acela (Amtrak)
+
 ## Remapped Buttons & Levers
 
 The index of remapped buttons are stored in `raildriver-*-Remapped.docx`.

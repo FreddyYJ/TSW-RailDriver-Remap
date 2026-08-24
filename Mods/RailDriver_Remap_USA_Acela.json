@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_Acela",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "BPE_AMTK_Acela",
+			"Path": "DLC/BPE_AMTK_Acela"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
