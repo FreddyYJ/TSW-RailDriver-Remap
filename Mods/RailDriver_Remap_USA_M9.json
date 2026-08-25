@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_M9",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LIRREX_M9",
+			"Path": "DLC/LIRREX_M9"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

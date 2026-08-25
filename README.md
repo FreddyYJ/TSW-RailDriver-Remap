@@ -241,6 +241,8 @@ GP38-2 has different key and control depends on the livery.
 * Acela (Amtrak)
 * M3/M3A (LIRR, MNRR)
 * M7/M7A (LIRR, MNRR)
+* M8 (MNRR)
+* M9 (LIRR)
 
 ## Remapped Buttons & Levers
 
@@ -285,6 +287,11 @@ If will lock/unlock left/right doors (i.e., same as Y and U in keyboard).
 
 ![RailDriver German mapping](images/RailDriver-Germany.png)
 
+### USA
+
+Some buttons of USA diesel locomotives does not work (e.g., Break cutoff or MU-2A valve).
+This is not in my side; TSW should fix this controls.
+
 ### The Others
 
 The other locomotives from the other countries uses same control with Germany and Austria except PZB controls and Brake Release.
@@ -299,7 +306,7 @@ I don't have a roadmap with exact date, but I have a simple plan to add the rema
 5. German diesel & shunting locomotives ... :heavy_check_mark:
 6. Austria/France/Switzerland/Netherland ... :heavy_check_mark:
 7. UK ... :heavy_check_mark:
-8. USA ... :construction:
+8. USA ... :heavy_check_mark:
 9. Japan
 
 ## Directory Structures

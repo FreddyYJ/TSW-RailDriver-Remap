@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_M8",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "NYS_MNR_M8",
+			"Path": "DLC/NYS_MNR_M8"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
