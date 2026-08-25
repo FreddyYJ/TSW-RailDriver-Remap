@@ -1,0 +1,21 @@
+{
+	"Name": "RailDriver_Remap_USA_M7",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "LIRR_M7",
+			"Path": "DLC/LIRR_M7"
+		},
+		{
+			"Name": "LIRREX_M7",
+			"Path": "DLC/LIRREX_M7"
+		},
+		{
+			"Name": "NYH_MNR_M7a",
+			"Path": "DLC/NYH_MNR_M7a"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
