@@ -21,6 +21,10 @@
 		{
 			"Name": "KAH_DB_BR442",
 			"Path": "DLC/KAH_DB_BR442"
+		},
+		{
+			"Name": "NWB_DB_BR442",
+			"Path": "DLC/NWB_DB_BR442"
 		}
 	],
 	"DLCDependencies": [],

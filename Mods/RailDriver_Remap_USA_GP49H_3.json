@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_GP49H_3",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "MPB_TR_GP49PH",
+			"Path": "DLC/MPB_TR_GP49PH"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

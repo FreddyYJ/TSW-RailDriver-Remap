@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class333",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "AWL_NT_Class333",
+			"Path": "DLC/AWL_NT_Class333"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

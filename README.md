@@ -196,7 +196,7 @@ Currently USA routes does not have any EMUs.
 
 #### Diesel Locomotives
 
-GP38-2 has different key and control depends on the livery.
+GP38-2 and F40PH-3C has different key and control depends on the livery.
 
 * GP60M (BNSF H2, H4)
 * AC4400CW (CSX, UP)
@@ -216,7 +216,7 @@ GP38-2 has different key and control depends on the livery.
 * MP36PH-3C (Caltrain, Metrolink)
 * F125 (Metrolink)
 * F59PHR (Metrolink)
-* F40PH-3C (MBTA)
+* F40PH-3C MBTA
 * HSP46 (MBTA)
 
 #### Electric Locomotives
@@ -299,15 +299,8 @@ The other locomotives from the other countries uses same control with Germany an
 ## Roadmaps
 I don't have a roadmap with exact date, but I have a simple plan to add the remaps.
 
-1. German electric locomotives ... :heavy_check_mark:
-2. German cab cars ... :heavy_check_mark:
-3. German EMUs ... :heavy_check_mark:
-4. German DMUs ... :heavy_check_mark:
-5. German diesel & shunting locomotives ... :heavy_check_mark:
-6. Austria/France/Switzerland/Netherland ... :heavy_check_mark:
-7. UK ... :heavy_check_mark:
-8. USA ... :heavy_check_mark:
-9. Japan
+1. TSW 7
+2. Japan
 
 ## Directory Structures
 

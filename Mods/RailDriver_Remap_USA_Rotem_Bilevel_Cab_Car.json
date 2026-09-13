@@ -9,6 +9,10 @@
 		{
 			"Name": "SBD_ML_RotemCars",
 			"Path": "DLC/SBD_ML_RotemCars"
+		},
+		{
+			"Name": "MPB_TR_RotemCars",
+			"Path": "DLC/MPB_TR_RotemCars"
 		}
 	],
 	"DLCDependencies": [],

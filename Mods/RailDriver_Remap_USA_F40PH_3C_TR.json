@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_USA_F40PH_3C_TR",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "MPB_TR_F40PHR",
+			"Path": "DLC/MPB_TR_F40PHR"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

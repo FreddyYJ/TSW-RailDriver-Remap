@@ -13,6 +13,10 @@
 		{
 			"Name": "KWG_RP_Vectron",
 			"Path": "DLC/KWG_RP_Vectron"
+		},
+		{
+			"Name": "NWB_DB_Vectron",
+			"Path": "DLC/NWB_DB_Vectron"
 		}
 	],
 	"DLCDependencies": [],

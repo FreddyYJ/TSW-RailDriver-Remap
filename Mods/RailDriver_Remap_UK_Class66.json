@@ -53,6 +53,10 @@
 		{
 			"Name": "EMK_DB_Class66",
 			"Path": "DLC/EMK_DB_Class66"
+		},
+		{
+			"Name": "AWL_Class66",
+			"Path": "DLC/AWL_Class66"
 		}
 	],
 	"DLCDependencies": [],

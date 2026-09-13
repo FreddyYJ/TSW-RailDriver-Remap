@@ -25,6 +25,10 @@
 		{
 			"Name": "SMH_UP_SD40-2",
 			"Path": "DLC/SMH_UP_SD40-2"
+		},
+		{
+			"Name": "MPB_CSX_SD40",
+			"Path": "DLC/MPB_CSX_SD40"
 		}
 	],
 	"DLCDependencies": [],

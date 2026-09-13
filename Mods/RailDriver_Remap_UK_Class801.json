@@ -5,6 +5,10 @@
 		{
 			"Name": "PBD_LNER_Class801",
 			"Path": "DLC/PBD_LNER_Class801"
+		},
+		{
+			"Name": "AWL_LNER_Class801",
+			"Path": "DLC/AWL_LNER_Class801"
 		}
 	],
 	"DLCDependencies": [],

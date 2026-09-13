@@ -9,6 +9,10 @@
 		{
 			"Name": "SFJ_CT_GP38-2",
 			"Path": "DLC/SFJ_CT_GP38-2"
+		},
+		{
+			"Name": "MPB_CSX_GP38-2",
+			"Path": "DLC/MPB_CSX_GP38-2"
 		}
 	],
 	"DLCDependencies": [],

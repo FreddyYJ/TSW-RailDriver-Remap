@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR412_ICE4",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "NWB_DB_BR412",
+			"Path": "DLC/NWB_DB_BR412"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
