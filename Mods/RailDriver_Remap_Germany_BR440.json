@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Germany_BR440",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "NWB_DB_BR440",
+			"Path": "DLC/NWB_DB_BR440"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}
