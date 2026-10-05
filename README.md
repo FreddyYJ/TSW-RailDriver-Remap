@@ -90,6 +90,7 @@ The listed locomotives below contains the other liveries (e.g., DBB, MRCE, RailP
 * DB BR 423
 * DB BR 425
 * DB BR 430
+* DB BR 440
 * DB BR 442 Talent 2 (include BR 1442 in Rapid Transit)
 
 #### DMUs
@@ -173,6 +174,8 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 313
 * Class 314
 * Class 323
+* Class 331
+* Class 333
 * Class 350
 * Class 375
 * Class 377
