@@ -86,6 +86,7 @@ The listed locomotives below contains the other liveries (e.g., DBB, MRCE, RailP
 * DB BR 403 ICE 3
 * DB BR 406 ICE 3M
 * DB BR 411 ICE T (DB BR 415)
+* DB BR 412 ICE 4
 * DB BR 422
 * DB BR 423
 * DB BR 425
