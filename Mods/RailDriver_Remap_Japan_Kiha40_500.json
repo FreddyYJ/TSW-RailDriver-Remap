@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_Japan_Kiha40_500",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "UWS_TDM_Kiha40",
+			"Path": "DLC/UWS_TDM_Kiha40"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

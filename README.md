@@ -128,6 +128,10 @@ Some Austrian locomotives shares same vehicle with Germany (e.g., ÖBB 1116 and 
 * NS ICM3
 * NS SNG3
 
+### Japan
+
+* Kiha 40-500
+
 ### UK
 
 The listed locomotives and MUs below contain every kind of liveries.
@@ -222,6 +226,9 @@ GP38-2 and F40PH-3C has different key and control depends on the livery.
 * F59PHR (Metrolink)
 * F40PH-3C MBTA
 * HSP46 (MBTA)
+* BL36PH (Tri-Rail)
+* F40PH-3C Tri-Rail
+* GP49PH-3 (Tri-Rail)
 
 #### Electric Locomotives
 
@@ -233,7 +240,7 @@ GP38-2 and F40PH-3C has different key and control depends on the livery.
 
 * Gallery Cab Car (Caltrain)
 * Bombardier Bi-Level Cab Car (Caltrain)
-* Rotem Bi-Level Cab Car (Metrolink)
+* Rotem Bi-Level Cab Car (Metrolink, Tri-Rail)
 * CTC-3 (MBTA)
 * CTC-5 (MBTA)
 * Amfleet Cab Car (Amtrak)
@@ -299,12 +306,6 @@ This is not in my side; TSW should fix this controls.
 ### The Others
 
 The other locomotives from the other countries uses same control with Germany and Austria except PZB controls and Brake Release.
-
-## Roadmaps
-I don't have a roadmap with exact date, but I have a simple plan to add the remaps.
-
-1. TSW 7
-2. Japan
 
 ## Directory Structures
 
