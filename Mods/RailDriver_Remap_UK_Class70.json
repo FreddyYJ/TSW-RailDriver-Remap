@@ -1,0 +1,13 @@
+{
+	"Name": "RailDriver_Remap_UK_Class70",
+	"DisplayName": "",
+	"Plugins": [
+		{
+			"Name": "AABS_Class70",
+			"Path": "DLC/AABS_Class70"
+		}
+	],
+	"DLCDependencies": [],
+	"Author": "",
+	"License": ""
+}

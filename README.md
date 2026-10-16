@@ -148,6 +148,7 @@ The listed locomotives and MUs below contain every kind of liveries.
 * Class 47
 * Class 52
 * Class 66
+* Class 70
 
 #### Electric Locomotives
 
